@@ -3,7 +3,7 @@
   "dependencies": {
     "todomvc-app-css": "^1.0.0",
     "todomvc-common": "^1.0.1",
-    "dojo": "1.10.2",
+    "dojo": "1.16.3",
     "dijit": "git://github.com/dojo/dijit.git#1.10.2",
     "dojox": "git://github.com/dojo/dojox.git#1.10.2",
     "util": "git://github.com/dojo/util.git#1.10.2"
