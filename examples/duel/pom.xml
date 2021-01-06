@@ -21,7 +21,7 @@
 		<staticapps.version>0.9.11</staticapps.version>
 		<merge.version>0.6.0</merge.version>
 		<duel.version>0.9.7</duel.version>
-		<slf4j.version>1.7.12</slf4j.version>
+		<slf4j.version>1.7.30</slf4j.version>
 		<javac.version>1.7</javac.version>
 
 		<duel.clientPrefix>todos.views</duel.clientPrefix>
