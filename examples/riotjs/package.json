@@ -3,6 +3,6 @@
   "dependencies": {
     "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.1",
-    "riot": "^2.2.4"
+    "riot": "^3.8.0"
   }
 }
