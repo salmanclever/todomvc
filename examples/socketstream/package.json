@@ -14,7 +14,7 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
-		"socketstream": "~0.3.10",
+		"socketstream": "~0.5.0",
 		"ss-hogan": "~0.1.3"
 	}
 }
